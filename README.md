@@ -20,3 +20,6 @@ Managing and updating application state <br>
 Handling user events and interactions <br>
 Building reusable and maintainable React components <br>
 Creating dynamic and responsive user interfaces <br>
+
+<img width="1161" height="554" alt="Botform used to News App" src="https://github.com/user-attachments/assets/6ba49918-a010-410a-aad6-37e37374a2cd" />
+
